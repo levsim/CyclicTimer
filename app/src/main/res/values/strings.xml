@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CyclicTimer</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="pause_title">Задержка: </string>
+
+    <string name="hint_pause">Задержка старта</string>
+    <string name="hint_interval">Интервал</string>
+
+    <string name="error_format">Неправильный формат (mm:ss)</string>
+
+</resources>
